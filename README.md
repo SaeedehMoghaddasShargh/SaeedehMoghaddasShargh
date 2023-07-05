@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @SaeedehMoghaddasShargh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @SaeedehMoghaddasShargh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<table>
+  <tr>
+    <td>
+      - 🎓 I am a graduate of software engineering in the master's degree.
+      - 👀 I’m interested in learning every things new on python programming
+      - 🌱 I’m currently learning python 
+      - 🎯 My Goal is to Contribute to as many **open source project** as possible.
+      - ✨ I love to create different types of **contents**.
+    </td>
+  </tr>
+</table>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
